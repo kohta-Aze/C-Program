@@ -24,43 +24,43 @@
 
 **Windows キー**を押します。
 
-<a href="image.png"><img src="image.png" alt="Windows キーを押してスタートメニューを開いた画面" width="720"></a>
+<a href="img/image.png"><img src="img/image.png" alt="Windows キーを押してスタートメニューを開いた画面" width="720"></a>
 
 検索欄に **「コントロールパネル」** と入力します。
 
-<a href="image-1.png"><img src="image-1.png" alt="コントロールパネルを検索した画面" width="720"></a>
+<a href="img/image-1.png"><img src="img/image-1.png" alt="コントロールパネルを検索した画面" width="720"></a>
 
 検索結果から **「コントロール パネル」** を開きます。
 
-<a href="image-2.png"><img src="image-2.png" alt="検索結果からコントロール パネルを開く" width="720"></a>
+<a href="img/image-2.png"><img src="img/image-2.png" alt="検索結果からコントロール パネルを開く" width="720"></a>
 
 ### 1-2. 「地域」の設定を開く
 
 **「時計と地域」** を選択します。
 
-<a href="image-3.png"><img src="image-3.png" alt="コントロール パネルの「時計と地域」" width="720"></a>
+<a href="img/image-3.png"><img src="img/image-3.png" alt="コントロール パネルの「時計と地域」" width="720"></a>
 
 続いて **「地域」** を選択します。
 
-<a href="image-4.png"><img src="image-4.png" alt="「地域」を選択する画面" width="720"></a>
+<a href="img/image-4.png"><img src="img/image-4.png" alt="「地域」を選択する画面" width="720"></a>
 
 「地域」の設定画面が開きます。
 
-<a href="image-5.png"><img src="image-5.png" alt="「地域」の設定画面を開いた状態" width="720"></a>
+<a href="img/image-5.png"><img src="img/image-5.png" alt="「地域」の設定画面を開いた状態" width="720"></a>
 
 ### 1-3. システム ロケールを変更する
 
 **「管理」タブ**を開きます。
 
-<a href="image-6.png"><img src="image-6.png" alt="「地域」の「管理」タブ" width="478"></a>
+<a href="img/image-6.png"><img src="img/image-6.png" alt="「地域」の「管理」タブ" width="478"></a>
 
 **「システム ロケールの変更」** を選択します。
 
-<a href="image-7.png"><img src="image-7.png" alt="「システム ロケールの変更」ボタン" width="484"></a>
+<a href="img/image-7.png"><img src="img/image-7.png" alt="「システム ロケールの変更」ボタン" width="484"></a>
 
 **「ベータ: ワールドワイド言語サポートで Unicode UTF-8 を使用」** にチェックを入れます。
 
-<a href="image-8.png"><img src="image-8.png" alt="Unicode UTF-8 を使用するチェックボックスをオンにした状態" width="441"></a>
+<a href="img/image-8.png"><img src="img/image-8.png" alt="Unicode UTF-8 を使用するチェックボックスをオンにした状態" width="441"></a>
 
 **「OK」** を押して設定画面を閉じます。
 
@@ -78,25 +78,25 @@
 
 保存先を選ぶ画面が出たら、**「保存」** を押します。
 
-<a href="image-9.png"><img src="image-9.png" alt="MinGW のダウンロードファイルを保存する画面" width="640"></a>
+<a href="img/image-9.png"><img src="img/image-9.png" alt="MinGW のダウンロードファイルを保存する画面" width="640"></a>
 
 ### 2-2. ダウンロードフォルダーを開く
 
 **Windows キー**を押し、**「エクスプローラー」** と入力します。
 
-<a href="image-10.png"><img src="image-10.png" alt="エクスプローラーを検索した画面" width="480"></a>
+<a href="img/image-10.png"><img src="img/image-10.png" alt="エクスプローラーを検索した画面" width="480"></a>
 
 検索結果から **「エクスプローラー」** を開きます。
 
-<a href="image-11.png"><img src="image-11.png" alt="エクスプローラーを開いた画面" width="640"></a>
+<a href="img/image-11.png"><img src="img/image-11.png" alt="エクスプローラーを開いた画面" width="640"></a>
 
 **「ダウンロード」フォルダー**を開きます。画面の並びや表示場所は、パソコンによって異なる場合があります。
 
-<a href="image-12.png"><img src="image-12.png" alt="エクスプローラーでダウンロードフォルダーを開く" width="640"></a>
+<a href="img/image-12.png"><img src="img/image-12.png" alt="エクスプローラーでダウンロードフォルダーを開く" width="640"></a>
 
 ファイル名が **「x86_64」から始まる 7z ファイル**を探します。
 
-<a href="image-13.png"><img src="image-13.png" alt="ダウンロードした圧縮ファイルのアイコン" width="77"></a>
+<a href="img/image-13.png"><img src="img/image-13.png" alt="ダウンロードした圧縮ファイルのアイコン" width="77"></a>
 
 ### 2-3. ダウンロードしたファイルを展開する
 
@@ -104,21 +104,21 @@
 
 次の画面で **「展開」** を押します。
 
-<a href="image-14.png"><img src="image-14.png" alt="圧縮ファイルの展開先を選び「展開」を押す画面" width="612"></a>
+<a href="img/image-14.png"><img src="img/image-14.png" alt="圧縮ファイルの展開先を選び「展開」を押す画面" width="612"></a>
 
 展開が終わるまで待ちます。
 
-<a href="image-15.png"><img src="image-15.png" alt="ファイルの展開中に表示される進行状況" width="607"></a>
+<a href="img/image-15.png"><img src="img/image-15.png" alt="ファイルの展開中に表示される進行状況" width="607"></a>
 
 展開後のフォルダーが開きます。
 
-<a href="image-16.png"><img src="image-16.png" alt="展開後のフォルダー内にある mingw64 フォルダー" width="640"></a>
+<a href="img/image-16.png"><img src="img/image-16.png" alt="展開後のフォルダー内にある mingw64 フォルダー" width="640"></a>
 
 ### 2-4. 「mingw64」フォルダーを切り取る
 
 **「mingw64」フォルダー**を選択し、**「切り取り」（ハサミのマーク）** を押します。
 
-<a href="image-17.png"><img src="image-17.png" alt="mingw64 フォルダーを選択して切り取る画面" width="640"></a>
+<a href="img/image-17.png"><img src="img/image-17.png" alt="mingw64 フォルダーを選択して切り取る画面" width="640"></a>
 
 次の手順で、移動先の **`C:\tools`** を用意します。
 
@@ -126,11 +126,11 @@
 
 エクスプローラーで**新しいタブ**を開きます。
 
-<a href="image-18.png"><img src="image-18.png" alt="エクスプローラーで新しいタブを開く操作" width="640"></a>
+<a href="img/image-18.png"><img src="img/image-18.png" alt="エクスプローラーで新しいタブを開く操作" width="640"></a>
 
 新しいタブが開いたことを確認します。
 
-<a href="image-19.png"><img src="image-19.png" alt="エクスプローラーの新しいタブを開いた状態" width="640"></a>
+<a href="img/image-19.png"><img src="img/image-19.png" alt="エクスプローラーの新しいタブを開いた状態" width="640"></a>
 
 左側の一覧を下にスクロールし、**C ドライブ**を探します。
 
@@ -138,21 +138,21 @@
 
 C ドライブを開きます。
 
-<a href="image-20.png"><img src="image-20.png" alt="C ドライブを開いた画面" width="640"></a>
+<a href="img/image-20.png"><img src="img/image-20.png" alt="C ドライブを開いた画面" width="640"></a>
 
 左上の **「新規作成」→「フォルダー」** を選び、名前を **`tools`** にします。
 
-<a href="image-21.png"><img src="image-21.png" alt="新規作成メニューからフォルダーを作る" width="146"></a>
+<a href="img/image-21.png"><img src="img/image-21.png" alt="新規作成メニューからフォルダーを作る" width="146"></a>
 
 **「tools」フォルダー**が作成されたことを確認します。
 
-<a href="image-22.png"><img src="image-22.png" alt="C ドライブ直下に作成した tools フォルダー" width="640"></a>
+<a href="img/image-22.png"><img src="img/image-22.png" alt="C ドライブ直下に作成した tools フォルダー" width="640"></a>
 
 ### 2-6. 「mingw64」フォルダーを移動する
 
 **「tools」フォルダー**をダブルクリックして開きます。作ったばかりなので、中は空です。
 
-<a href="image-23.png"><img src="image-23.png" alt="作成した tools フォルダーを開いた画面" width="640"></a>
+<a href="img/image-23.png"><img src="img/image-23.png" alt="作成した tools フォルダーを開いた画面" width="640"></a>
 
 ここに、手順 **2-4** で切り取った **「mingw64」フォルダー**を貼り付けます。
 
@@ -182,7 +182,7 @@ g++ -v
 
 次のように、バージョンなどの情報が表示されます。
 
-<a href="image-24.png"><img src="image-24.png" alt="コマンドプロンプトで g++ -v を実行した表示例" width="720"></a>
+<a href="img/image-24.png"><img src="img/image-24.png" alt="コマンドプロンプトで g++ -v を実行した表示例" width="720"></a>
 
 **確認するのは、出力の最後にある「gcc version」で始まる行です。**
 
@@ -190,7 +190,7 @@ g++ -v
 gcc version 15.2.0 ...
 ```
 
-<a href="image-25.png"><img src="image-25.png" alt="gcc version 15.2.0 と表示された行の拡大画像" width="680"></a>
+<a href="img/image-25.png"><img src="img/image-25.png" alt="gcc version 15.2.0 と表示された行の拡大画像" width="680"></a>
 
 > 画像は表示例です。バージョン番号や後ろに続く説明は、環境によって異なります。
 
