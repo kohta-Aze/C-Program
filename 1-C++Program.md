@@ -134,11 +134,7 @@
 
 左側の一覧を下にスクロールし、**C ドライブ**を探します。
 
-**操作動画：C ドライブを探す**
-
-<video controls preload="metadata" width="720" src="Screen Recording 2026-09-28 100708.mp4" title="C ドライブを探す操作"></video>
-
-[動画を開く：C ドライブを探す](<Screen Recording 2026-09-28 100708.mp4>)
+**[操作動画：C ドライブを開く（Google Drive フォルダーを開く）](https://drive.google.com/drive/folders/1u3kpGUvvufC_rsfGc8VIP7ObvrvPC210)**
 
 C ドライブを開きます。
 
@@ -160,11 +156,7 @@ C ドライブを開きます。
 
 ここに、手順 **2-4** で切り取った **「mingw64」フォルダー**を貼り付けます。
 
-**操作動画：フォルダーを移動する**
-
-<video controls preload="metadata" width="720" src="Screen Recording 2026-09-28 101108.mp4" title="tools フォルダーへ移動する操作"></video>
-
-[動画を開く：フォルダーを移動する](<Screen Recording 2026-09-28 101108.mp4>)
+**[操作動画：フォルダーのコピー（Google Drive フォルダーを開く）](https://drive.google.com/drive/folders/1u3kpGUvvufC_rsfGc8VIP7ObvrvPC210)**
 
 **配置先の確認：** `C:\tools\mingw64` になっていれば、次へ進みます。
 
@@ -174,11 +166,7 @@ C ドライブを開きます。
 
 以下の動画を見ながら、**PATH** を設定します。
 
-**操作動画：PATH の設定**
-
-<video controls preload="metadata" width="720" src="Screen Recording 2026-09-28 101957.mp4" title="PATH を設定する操作"></video>
-
-[動画を開く：PATH の設定](<Screen Recording 2026-09-28 101957.mp4>)
+**[操作動画：PATH の設定（Google Drive フォルダーを開く）](https://drive.google.com/drive/folders/1u3kpGUvvufC_rsfGc8VIP7ObvrvPC210)**
 
 操作が分からない場合は、SA または先生に聞いてください。
 
